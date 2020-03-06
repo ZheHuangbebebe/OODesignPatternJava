@@ -1,0 +1,10 @@
+{"command": "room", "venue": "V1", "room": "R1", "size": "small" }
+{ "command": "room", "venue": "V1", "room": "R2", "size": "medium" }
+{ "command": "room", "venue": "V1", "room": "R3", "size": "large" }
+{ "command": "request", "id": "Request1", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 1 }
+{ "command": "change", "id": "Request1", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 1, "large": 1 }
+{ "command": "cancel", "id": "Request1" }
+{ "command": "request", "id": "Request2", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 1, "large": 1 }
+{ "command": "cancel", "id": "Request2" }
+{ "command": "list", "venue": "V1" }
+

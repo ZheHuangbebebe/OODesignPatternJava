@@ -1,0 +1,147 @@
+{
+  "venue": "V1",
+  "rooms": [
+    "R1",
+    "R5",
+    "R6"
+  ],
+  "status": "success"
+}
+{
+  "venue": "V1",
+  "rooms": [
+    "R1",
+    "R2",
+    "R3",
+    "R4",
+    "R5",
+    "R6"
+  ],
+  "status": "success"
+}
+{"status": "rejected"}
+{
+  "venue": "V1",
+  "rooms": [
+    "R1",
+    "R3",
+    "R5"
+  ],
+  "status": "success"
+}
+{
+  "venue": "V1",
+  "rooms": [
+    "R2",
+    "R4",
+    "R6"
+  ],
+  "status": "success"
+}
+[
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Request1"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request3"
+      }
+    ],
+    "room": "R1"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request4"
+      }
+    ],
+    "room": "R2"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request3"
+      }
+    ],
+    "room": "R3"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request4"
+      }
+    ],
+    "room": "R4"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Request1"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request3"
+      }
+    ],
+    "room": "R5"
+  },
+  {
+    "reservations": [
+      {
+        "start": "2019-03-25",
+        "end": "2019-03-26",
+        "id": "Request1"
+      },
+      {
+        "start": "2019-03-27",
+        "end": "2019-03-29",
+        "id": "Request2"
+      },
+      {
+        "start": "2019-04-01",
+        "end": "2019-04-01",
+        "id": "Request4"
+      }
+    ],
+    "room": "R6"
+  }
+]

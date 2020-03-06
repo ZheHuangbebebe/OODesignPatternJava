@@ -1,0 +1,41 @@
+{"status": "rejected"}
+{
+  "venue": "V1",
+  "rooms": [
+    "R1",
+    "R2"
+  ],
+  "status": "success"
+}
+{
+  "venue": "V2",
+  "rooms": ["R3"],
+  "status": "success"
+}
+{"status": "rejected"}
+[
+  {
+    "reservations": [{
+      "start": "2019-03-24",
+      "end": "2019-03-27",
+      "id": "Request2"
+    }],
+    "room": "R1"
+  },
+  {
+    "reservations": [{
+      "start": "2019-03-24",
+      "end": "2019-03-27",
+      "id": "Request2"
+    }],
+    "room": "R2"
+  }
+]
+[{
+  "reservations": [{
+    "start": "2019-03-24",
+    "end": "2019-03-26",
+    "id": "Request3"
+  }],
+  "room": "R3"
+}]

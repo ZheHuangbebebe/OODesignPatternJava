@@ -1,0 +1,12 @@
+{ "command": "room", "venue": "V1", "room": "R1", "size": "small" }
+{ "command": "room", "venue": "V1", "room": "R2", "size": "small" }
+{ "command": "room", "venue": "V1", "room": "R3", "size": "medium" }
+{ "command": "room", "venue": "V1", "room": "R4", "size": "medium" }
+{ "command": "room", "venue": "V1", "room": "R5", "size": "large" }
+{ "command": "room", "venue": "V1", "room": "R6", "size": "large" }
+{ "command": "request", "id": "Request1", "start": "2019-03-25", "end": "2019-03-26", "small": 1, "medium": 0, "large": 2 }
+{ "command": "request", "id": "Request2", "start": "2019-03-27", "end": "2019-03-29", "small": 2, "medium": 2, "large": 2 }
+{ "command": "change", "id": "Request1", "start": "2019-03-28", "end": "2019-03-29", "small": 1, "medium": 0, "large": 2 }
+{ "command": "request", "id": "Request3", "start": "2019-04-01", "end": "2019-04-01", "small": 1, "medium": 1, "large": 1 }
+{ "command": "request", "id": "Request4", "start": "2019-04-01", "end": "2019-04-01", "small": 1, "medium": 1, "large": 1 }
+{ "command": "list", "venue": "V1" }
